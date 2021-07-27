@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blitz-cmd&label=Profile%20views&color=0e75b6&style=plastic" alt="blitz-cmd" /> </p>&nbsp;
 </p>
 <br>
-<img alt="Night Coding" height="250px" src="https://user-images.githubusercontent.com/59210571/126970405-2011b0a3-20d1-4d85-80d5-12183c6aa587.gif" align="right"/>
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/59210571/126970405-2011b0a3-20d1-4d85-80d5-12183c6aa587.gif" align="right" style="padding-top:60px"/>
 
 
 ### 🛠 &nbsp;Tech Stack
