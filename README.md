@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/deep-debnath-504/"><img height="30" src="https://user-images.githubusercontent.com/59210571/126967808-92f6569c-f90e-4b95-9b09-14b77626f3db.png"></a>&nbsp;&nbsp;
 <a href="mailto:deepdebnath613@gmail.com"><img height="30" src="https://user-images.githubusercontent.com/59210571/126968061-5bfb750c-d72d-44cc-a794-57807a3b5a44.png"></a>&nbsp;&nbsp;
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=blitz-cmd&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>&nbsp;
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=blitz-cmd&label=Profile%20views&color=0e75b6&style=plastic" alt="blitz-cmd" /> </p>&nbsp;
 </p>
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/59210571/126970405-2011b0a3-20d1-4d85-80d5-12183c6aa587.gif" align="right"/>
@@ -30,3 +30,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blitz-cmd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blitz-cmd&theme=algolia" alt="blitz-cmd"/></p>
