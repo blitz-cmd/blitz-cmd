@@ -9,7 +9,7 @@
 ## 👨🏻‍💻 <b><samp>About Me</samp></b>
 <br>
 
-🎓 <samp>I'm currently persuing Information Technology from University of Mumbau.\
+🎓 <samp>I'm currently persuing Information Technology from University of Mumbai.\
 🌱 <samp>I'm on track for learning more about Cloud Computing and DevOps Methodology.\
 ✍️ <samp>In my free time, I usually play pc games.\
 💬 <samp>Feel free to reach me anytime!\
