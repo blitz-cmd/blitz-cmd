@@ -5,12 +5,21 @@
 <a href="mailto:deepdebnath613@gmail.com"><img height="30" src="https://user-images.githubusercontent.com/59210571/126968061-5bfb750c-d72d-44cc-a794-57807a3b5a44.png"></a>&nbsp;&nbsp;
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blitz-cmd&label=Profile%20views&color=0e75b6&style=plastic" alt="blitz-cmd" /> </p>&nbsp;
 </p>
+
+## 👨🏻‍💻 <b><samp>About Me</samp></b>
 <br>
+
+🎓 <samp>I'm currently persuing Information Technology from University of Mumbau.\
+🌱 <samp>I'm on track for learning more about Cloud Computing and DevOps Methodology.\
+✍️ <samp>In my free time, I usually play pc games.\
+💬 <samp>Feel free to reach me anytime!\
+✉️ <samp>You can email me at deepdebnath613@gmail.com. I'll try to respond as soon as possible!
+
+<br>
+
+## 🛠 <b><samp>Tech Stack</samp></b>
+<br><div>
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/59210571/126970405-2011b0a3-20d1-4d85-80d5-12183c6aa587.gif" align="right"/>
-
-
-### 🛠 &nbsp;Tech Stack
-<br>
 
 ![python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
@@ -36,11 +45,11 @@
 ![VSCode](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipseide)&nbsp;
 ![AndriodStudio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)&nbsp;
-
+</div>
 <!-- <br><br><br><br> -->
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ <b><samp>GitHub Analytics</b></samp>
 
 <br>
 
