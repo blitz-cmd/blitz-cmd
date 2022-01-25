@@ -1,19 +1,20 @@
-<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/59210571/126967002-557e2218-efc2-440f-ac1c-9a5b07f17bd0.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
+<h1 align="center">Hey <img src="https://user-images.githubusercontent.com/59210571/126967002-557e2218-efc2-440f-ac1c-9a5b07f17bd0.gif" width="40px" />, I'm Deep Debnath</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/deep-debnath-504/"><img height="30" src="https://user-images.githubusercontent.com/59210571/126967808-92f6569c-f90e-4b95-9b09-14b77626f3db.png"></a>&nbsp;&nbsp;
 <a href="mailto:deepdebnath613@gmail.com"><img height="30" src="https://user-images.githubusercontent.com/59210571/126968061-5bfb750c-d72d-44cc-a794-57807a3b5a44.png"></a>&nbsp;&nbsp;
+<a href="https://deep-debnath-portfolio.herokuapp.com/"><img height="30" src="https://user-images.githubusercontent.com/59210571/148636600-af5ed6e2-f285-4926-b36b-de96ba8dad7f.png"></a>&nbsp;&nbsp;
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=blitz-cmd&label=Profile%20views&color=0e75b6&style=plastic" alt="blitz-cmd" /> </p>&nbsp;
 </p>
 
 ## 👨🏻‍💻 <b><samp>About Me</samp></b>
 <br>
 
-🎓 <samp>I'm currently persuing Information Technology from University of Mumbai.\
-🌱 <samp>I'm on track for learning more about Cloud Computing and DevOps Methodology.\
-✍️ <samp>In my free time, I usually play pc games.\
-💬 <samp>Feel free to reach me anytime!\
-✉️ <samp>You can email me at deepdebnath613@gmail.com. I'll try to respond as soon as possible!
+- 🎓 I'm currently persuing Information Technology from University of Mumbai.
+- 🌱 I'm on track for learning more about Cloud Computing and DevOps Methodology.
+- ✍️ In my free time, I usually play pc games.
+- 💬 Feel free to reach me anytime!
+- ✉️ You can email me at deepdebnath613@gmail.com. I'll try to respond as soon as possible!
 
 <br>
 
@@ -55,8 +56,8 @@
 
 <p align="center">
 <a href="https://github.com/blitz-cmd">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=blitz-cmd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blitz-cmd&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=blitz-cmd&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blitz-cmd&layout=compact&langs_count=8&hide=css,html,scss&theme=highcontrast"/>
 </a>
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blitz-cmd&theme=algolia" alt="blitz-cmd"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blitz-cmd&theme=merko" alt="blitz-cmd"/></p>
